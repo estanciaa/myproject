@@ -1,0 +1,17 @@
+{
+  "name": "botbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert",
+  "license": "ISC",
+  "description": "Este projeto é um bot de Discord desenvolvido com a biblioteca [discord.js](https://discord.js.org/). O bot é capaz de interagir com servidores, respondendo a comandos de texto e executando várias funções úteis.",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
+  }
+}
